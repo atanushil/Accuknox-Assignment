@@ -1,7 +1,7 @@
 
 ---
 
-# [Dashboard Management](https://accuknox-assignment-tau.vercel.app/)
+# [Dashboard Management](https://accuknox-assignment-ui.vercel.app/dashboard)
 
 Welcome to the Widget Dashboard Website! This website allows users to manage and personalize a dashboard with various widgets, each displaying different types of charts. The site includes features for searching, adding, deleting widgets, and personalizing the dashboard. Also, this website is designed to be fully responsive across various breakpoints:
 
@@ -37,7 +37,10 @@ Welcome to the Widget Dashboard Website! This website allows users to manage and
   The layout utilizes the full multi-column design for maximum screen space, with the navbar fully expanded and all links visible, and widgets displayed in a flexible grid layout to effectively use the larger screen size.
 </details>
 
-**Visit the [Dashboard Management](https://accuknox-assignment-tau.vercel.app/) to get more details.**
+
+
+**Visit the [Dashboard Management](https://accuknox-assignment-ui.vercel.app/dashboard) to explore more details. Please note, it's only a User Interface. To try out all the features, you'll need to set up the app on your own device using Node.js, npm, and Mongoose.**
+
 
 ## Features
 
