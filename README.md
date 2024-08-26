@@ -107,7 +107,7 @@ To get started with the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/atanushil/Accuknox_Assignment.git
+   git clone https://github.com/atanushil/Accuknox-Assignment.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -126,7 +126,6 @@ To get started with the project:
    ```
 
 5. **Open Your Browser** and go to `http://localhost:5173` to view the website.
-To include instructions for running a backend with `nodemon` and `index.js` in your README file, you need to detail how to set up `nodemon` for development and start the backend server. Here’s a sample section to add to your README file for backend setup:
 
 ---
 
